@@ -1,25 +1,19 @@
 @import './common';
-
 @import './typography';
 @import './typography-helpers/styles';
 @import './text-alignment/styles';
-
-  @import './flex/styles';
-  @import './grid-flex/styles';
-  @import './grid/styles';
-
+@import './flex/styles';
+@import './grid-flex/styles';
+@import './grid/styles';
 @import './forms/styles';
 @import './float/styles';
 @import './visibility/styles';
-
 @import './button/styles';
 @import './button-group/styles';
 @import './close-button/styles';
 @import './switch/styles';
-
 @import './menu/styles';
 @import './top-bar/styles';
-
 @import './accordion/styles';
 @import './callout/styles';
 @import './dropdown/styles';
@@ -30,15 +24,12 @@
 @import './table/styles';
 @import './tabs/styles';
 @import './title-bar/styles';
-
 @import './badge/styles';
 @import './flex-video/styles';
 @import './label/styles';
 @import './progress-bar/styles';
 @import './thumbnail/styles';
 @import './tooltip/styles';
-
 @import './toggle-switch/styles';
-
 @import './collapse/styles';
 @import './fade/styles';
